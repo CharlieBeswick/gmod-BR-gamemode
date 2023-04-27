@@ -1,0 +1,12 @@
+"terrortown"
+{
+	"base"		"base"
+	"title"		"Schwifties Battle Royal Gamemode"
+	"category"	"pvp"
+	"maps"		"gm_construct"
+	"menusystem"	"1"
+	"settings"
+	
+		
+	
+}

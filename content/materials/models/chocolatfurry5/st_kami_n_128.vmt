@@ -1,0 +1,22 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/ChocolatFurry5/st_kami_n_128"
+	"$alphatest" 1
+	"$allowalphatocoverage" 1
+	"$nodecal" 1
+	
+   "$bumpmap" "models/ChocolatFurry5/hanyou_ind"       
+	
+	"$phong" "1"
+               "$phongexponent" "33" 
+                "$phongboost" "15"
+
+                               "$phongfresnelranges"   "[0.001 0.4 4]"
+	 "$phongexponentmask" "models/chocolatfurry5/PLO1_fureneru.vtf"
+	
+               // Rim lighting parameters 
+"$rimlight" "1" // To enable rim lighting (requires phong) 
+"$rimlightexponent" "1" // Exponent for phong component of rim lighting 
+"$rimlightboost" "1" // Boost for ambient cube component of rim lighting
+
+}
